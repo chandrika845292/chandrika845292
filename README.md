@@ -1,17 +1,18 @@
 <div align="center">
 
-# 🌌 Hey there, I'm Chandrika Modala!
+# 🌌 Hi, I'm Chandrika Modala!
 
-### 💜 Python Full Stack Developer | AI Enthusiast | Creative Builder
+### 💜 Python Full Stack Developer | AI & Generative AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer+%F0%9F%90%8D;Exploring+AI+%26+Generative+AI+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Building+Projects+That+Matter+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Exploring+Artificial+Intelligence;Building+Creative+Web+Applications;Always+Learning+Something+New" alt="Typing introduction" />
 
-*“Dream beyond the stars. Code beyond the limits.”* ✨
+<p>
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Enthusiast" />
+  <img src="https://img.shields.io/badge/Open_to_Learning-Yes-9370DB?style=for-the-badge" alt="Open to Learning" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-chandrika845292-181717?style=for-the-badge\&logo=github)](https://github.com/chandrika845292)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chandrikamodala-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/chandrikamodala/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=chandrika845292\&style=for-the-badge\&color=blueviolet\&label=PROFILE+VISITORS)
+*✨ Dream big. Build boldly. Keep exploring. ✨*
 
 </div>
 
@@ -19,113 +20,104 @@
 
 ## 🌠 About Me
 
-```python
-class ChandrikaModala:
-    def __init__(self):
-        self.name = "Chandrika Modala"
-        self.role = "Python Full Stack Developer"
-        self.interests = [
-            "Artificial Intelligence",
-            "Generative AI",
-            "Web Development",
-            "Creative Problem Solving"
-        ]
-        self.current_focus = "Building innovative applications"
-        self.mindset = "Learn • Build • Improve • Repeat"
+Hello! I'm **Chandrika Modala**, a developer passionate about technology, web development, and Artificial Intelligence.
 
-    def say_hello(self):
-        return "Welcome to my corner of the coding universe! 🚀"
-
-me = ChandrikaModala()
-print(me.say_hello())
-```
-
-* 🚀 Aspiring developer passionate about building real-world applications.
-* 🐍 Exploring Python full-stack development and modern web technologies.
-* 🤖 Fascinated by Artificial Intelligence and Generative AI.
-* 💡 I enjoy transforming creative ideas into practical solutions.
-* 🌱 Always learning, experimenting, and discovering new technologies.
-* 🎯 My goal is to grow as a developer and contribute to meaningful projects.
+* 🐍 Interested in Python full-stack development.
+* 🌐 Exploring modern web technologies.
+* 🤖 Curious about Artificial Intelligence and Generative AI.
+* 💡 Love turning creative ideas into practical projects.
+* 🌱 Constantly learning, experimenting, and improving my skills.
+* 🚀 Working toward becoming a skilled software developer.
 
 ---
 
-## 🪐 My Tech Universe
+## 🪐 My Tech Stack
 
 ### 💻 Programming & Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,react" alt="Python, Django, HTML, CSS, JavaScript and React" />
 </p>
 
-### 🗄️ Database & Developer Tools
+### 🗄️ Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL, Git, GitHub and VS Code" />
 </p>
 
-### 🤖 Areas of Interest
+### 🤖 Interests
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-6A5ACD?style=for-the-badge\&logo=openai\&logoColor=white)
-![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-4B0082?style=for-the-badge\&logo=codeigniter\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat-square" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Generative_AI-6A5ACD?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Full_Stack_Development-483D8B?style=flat-square" alt="Full Stack Development" />
+</p>
 
 ---
 
-## 🚀 Projects From My Universe
+## 🚀 Featured Projects
 
 ### 🎬 Hotstar-Inspired Website
 
-A web development project inspired by streaming platforms, focused on creating an engaging user interface and browsing experience.
+A web development project inspired by streaming platforms, focusing on an engaging interface and a user-friendly browsing experience.
 
-**Focus:** Frontend Development • Responsive UI • Web Design
+**Technologies:** Add the languages and frameworks used in your actual project.
 
 ### 📊 Big Data Analysis
 
-A data-oriented project exploring datasets to identify patterns, understand information, and derive meaningful insights.
+A data analysis project focused on exploring datasets, identifying patterns, and discovering meaningful insights.
 
-**Focus:** Data Exploration • Analysis • Insights
+**Technologies:** Add the programming languages and tools used in your actual project.
 
-> ✨ Explore my repositories for source code, implementation details, and future projects.
-
-[![Explore Repositories](https://img.shields.io/badge/Explore_My_Repositories-8A2BE2?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/chandrika845292?tab=repositories)
+<p>
+  <a href="https://github.com/chandrika845292?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="View all projects" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Galaxy
+## 📊 My GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chandrika845292&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="Chandrika's GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=chandrika845292&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrika845292&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrika845292&layout=compact&theme=midnight-purple&hide_border=true" alt="Most used programming languages" />
 
-<img src="https://streak-stats.demolab.com?user=chandrika845292&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=chandrika845292&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🌌 My Developer Philosophy
+## 🌌 My Developer Mindset
 
-> 🌱 Every expert was once a beginner.
-> 💡 Every great application started with an idea.
-> 🚀 Every bug is an opportunity to learn something new.
-
-**My mission:** Keep learning, keep building, and create technology that makes a difference.
+> 💡 Learn something new every day.
+> 🛠️ Build projects that turn ideas into reality.
+> 🌱 Treat every challenge as an opportunity to grow.
+> 🚀 Keep moving forward, one line of code at a time.
 
 ---
 
-## 🤝 Let's Connect Across the Universe!
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge\&logo=github)](https://github.com/chandrika845292)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/chandrikamodala/)
+<a href="https://github.com/chandrika845292">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+</a>
 
-### 💜 Thanks for visiting my profile!
+<a href="https://www.linkedin.com/in/chandrikamodala/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+</a>
 
-**Keep exploring. Keep creating. Keep shining.** ✨
+<br /><br />
 
-⭐ If you find something interesting in my repositories, consider giving them a star!
+<img src="https://komarev.com/ghpvc/?username=chandrika845292&style=flat-square&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views" />
+
+### 💜 Thanks for visiting my coding universe!
+
+**Keep learning. Keep building. Keep shining!** ✨
 
 </div>
